@@ -2,7 +2,7 @@
     var servers = [
         { addr: "wss://tuffest.org", name: "§c§ltuffnet" },
         { addr: "wss://tuff.ws", name: "§c§ltuffnet" },
-        { addr: "wss://piesmp.ca", name: "§4§lPie SMP" },
+        { addr: "wss://piesmp.ca", name: "§4§lPie SMP" }
     ];
 
     var real = Object.defineProperty;
